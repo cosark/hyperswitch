@@ -144,6 +144,11 @@ You can deploy to AWS, GCP, or Azure using Helm Charts.
 
 <a href="https://docs.hyperswitch.io/hyperswitch-open-source/deploy-on-kubernetes-using-helm">Cloud Deployment Instructions</a>.
 
+<h3><strong>One-Click Deploy</strong></h3>
+
+<a href="https://repocloud.io/details/Hyperswitch/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://elest.io/open-source/hyperswitch"><img src="https://elest.io/images/logos/deploy-to-elestio-btn.png" alt="Deploy on Elestio" height="42"></a>
+
 
 <a href="#architectural-overview">
   <h2 id="architectural-overview">Architectural Overview</h2>
